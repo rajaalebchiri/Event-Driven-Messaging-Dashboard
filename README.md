@@ -1,6 +1,6 @@
 # Event-Driven-Messaging-Dashboard
 
-- Users send messages via a React or Angular frontend.
+- Users send messages via next.js and typescript frontend.
 - Messages are routed through Kafka and stored in MongoDB + PostgreSQL.
 - Elasticsearch powers search.
 - Keycloak handles auth.
